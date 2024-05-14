@@ -1,0 +1,9 @@
+/.idea/
+/venv/
+/output/
+/data/
+*.csv
+*.json
+__pychache__/
+*.py[cod]
+
